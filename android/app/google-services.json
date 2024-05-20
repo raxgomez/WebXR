@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48957359847",
+    "project_id": "donkoke-967de",
+    "storage_bucket": "donkoke-967de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48957359847:android:9458d113eb63b0fd7ac442",
+        "android_client_info": {
+          "package_name": "com.mycompany.donkoke"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9zJOoDl3VSruoVNsdHjMgYi8m7wHmB3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
