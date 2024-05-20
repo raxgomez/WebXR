@@ -1,2 +1,0 @@
-# WebXR
-Demo AR Web
